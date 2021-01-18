@@ -513,7 +513,7 @@ for the Construction and Analysis of Systems: 25 Years of TACAS: TOOLympics Held
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(195).pdf" style="text-decoration:none;">50 Years After The Perceptron,
 25 Years After PDP: Neural Computation In Language Sciences</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(196).pdf" style="text-decoration:none;">Script E ects as the
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(196).pdf" style="text-decoration:none;">Script Effects as the
 Hidden Drive of the Mind, Cognition, and Culture</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(197).pdf" style="text-decoration:none;">Connectionist Representations of Tonal Music: Discovering Musical Patterns by Interpreting Artificial Neural Networks</a></li> 
