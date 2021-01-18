@@ -290,6 +290,56 @@ And Neural Findings In Visual Object Perception</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(107).pdf" style="text-decoration:none;">New Industry 4.0 Advances in Industrial IoT and Visual Computing for Manufacturing Processes</a></li> 
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(108).pdf" style="text-decoration:none;">Video-to-Video Face Recognition for
+Low-Quality Surveillance Data</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(109).pdf" style="text-decoration:none;">Projection-Based Clustering
+through Self-Organization and Swarm Intelligence</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(110).pdf" style="text-decoration:none;">Data Journeys
+in the Sciences </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(111).pdf" style="text-decoration:none;">Fundamentals of Clinical Data Science</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(112).pdf" style="text-decoration:none;">Audiovisual Speech Recognition:
+Correspondence Between Brain And Behavior</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(113).pdf" style="text-decoration:none;">Deep Learning Applications with
+Practical Measured Results in Electronics Industries</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(114).pdf" style="text-decoration:none;">Proceedings of the International Conference on Advances in Statistical Modelling of Ordinal Data, Naples, 24-26 October 2018</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(115).pdf" style="text-decoration:none;">Facing The Other: Novel
+Theories And Methods In Face Perception Research</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(116).pdf" style="text-decoration:none;">An Update Algorithm for Restricted Random Walk Clusters</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(117).pdf" style="text-decoration:none;">Geoinformatics in
+Citizen Science</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(118).pdf" style="text-decoration:none;">Learning to Understand Remote
+Sensing Images</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(119).pdf" style="text-decoration:none;">Exact Algorithms for Size Constrained
+Clustering</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(120).pdf" style="text-decoration:none;">Molecular
+Computing and Bioinformatics</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(121).pdf" style="text-decoration:none;">Process Modelling
+and Simulation</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(122).pdf" style="text-decoration:none;">The Impact Of
+Learning To Read On Visual Processing</a></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(123).pdf" style="text-decoration:none;">Understanding
+Social Signals: How Do We Recognize The Intentions Of Others?</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(124).pdf" style="text-decoration:none;">Using Noise To
+Characterize Vision</a></li>   
+   
+
+
 
 </ul>
 </br>
