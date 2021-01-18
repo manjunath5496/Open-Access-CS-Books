@@ -338,6 +338,75 @@ Social Signals: How Do We Recognize The Intentions Of Others?</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(124).pdf" style="text-decoration:none;">Using Noise To
 Characterize Vision</a></li>   
    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(125).pdf" style="text-decoration:none;">Biodiversity
+Databases: Techniques, Politics, and Applications</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(126).pdf" style="text-decoration:none;">
+New Methods to Improve Large-Scale Microscopy Image Analysis with Prior Knowledge and Uncertainty</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(127).pdf" style="text-decoration:none;">Knowledge
+Management, Innovation and Big Data: Implications for Sustainability, Policy Making and Competitiveness</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(128).pdf" style="text-decoration:none;">Unraveling
+Neuroprotective And Neurodegenerative Signals In Neurodegeneration</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(129).pdf" style="text-decoration:none;">Secondary
+Analysis of Electronic Health Records</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(130).pdf" style="text-decoration:none;">The Future Internet:
+Future Internet Assembly 2012: From Promises to Reality</a></li>    
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(131).pdf" style="text-decoration:none;">Towards Translating Research
+To Clinical Practice: Novel Strategies For Discovery And Validation Of Biomarkers For Brain Injury</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(132).pdf" style="text-decoration:none;">Data-driven Methods for Fault
+Localization in Process Technology</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(133).pdf" style="text-decoration:none;">Reading by Numbers</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(134).pdf" style="text-decoration:none;">Large-Scale Pattern-
+Based Information Extraction from the World Wide Web</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(135).pdf" style="text-decoration:none;">Computational
+Conflict Research</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(136).pdf" style="text-decoration:none;">Privacy on the Line:
+The Politics of Wiretapping and Encryption</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(137).pdf" style="text-decoration:none;">Data and Text
+Processing for Health and Life Sciences</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(138).pdf" style="text-decoration:none;">Relational exploration: Combining description logics and formal concept analysis for knowledge specification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(139).pdf" style="text-decoration:none;">Applied
+Econometrics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(140).pdf" style="text-decoration:none;">Big Data in
+Context: Legal, Social and Technological Insights</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(141).pdf" style="text-decoration:none;"> Graphs for Pattern Recognition</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(142).pdf" style="text-decoration:none;">The Pacific Symposium on Biocomputing (PSB) 2015 </a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(143).pdf" style="text-decoration:none;">Advanced Location-Based Technologies and Services</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(144).pdf" style="text-decoration:none;">When Chemistry Meets
+Biology - Generating Innovative Concepts, Methods And Tools For Scientific Discovery In The Plant Sciences</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(145).pdf" style="text-decoration:none;">Biological Ontologies And
+Semantic Biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(146).pdf" style="text-decoration:none;">Comprehensive Systems Biomedicine</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(147).pdf" style="text-decoration:none;">Computational Systems Biology of Pathogen-Host Interactions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(148).pdf" style="text-decoration:none;">Systems Analytics
+and Integration of Big Omics Data</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(149).pdf" style="text-decoration:none;">Engaging Researchers with
+Data Management: The Cookbook</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(150).pdf" style="text-decoration:none;">Big Data Research
+for Social Sciences and Social Impact</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(151).pdf" style="text-decoration:none;">Observing Geohazards
+from Space </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(152).pdf" style="text-decoration:none;">Generation of Neuroinformatics Infrastructure </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(153).pdf" style="text-decoration:none;">Google Earth
+Engine Applications</a></li> 
 
 
 
