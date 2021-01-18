@@ -347,7 +347,7 @@ New Methods to Improve Large-Scale Microscopy Image Analysis with Prior Knowledg
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(127).pdf" style="text-decoration:none;">Knowledge
 Management, Innovation and Big Data: Implications for Sustainability, Policy Making and Competitiveness</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(128).pdf" style="text-decoration:none;">Unraveling
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(128).PDF" style="text-decoration:none;">Unraveling
 Neuroprotective And Neurodegenerative Signals In Neurodegeneration</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(129).pdf" style="text-decoration:none;">Secondary
@@ -356,7 +356,7 @@ Analysis of Electronic Health Records</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(130).pdf" style="text-decoration:none;">The Future Internet:
 Future Internet Assembly 2012: From Promises to Reality</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(131).pdf" style="text-decoration:none;">Towards Translating Research
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(131).PDF" style="text-decoration:none;">Towards Translating Research
 To Clinical Practice: Novel Strategies For Discovery And Validation Of Biomarkers For Brain Injury</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(132).pdf" style="text-decoration:none;">Data-driven Methods for Fault
