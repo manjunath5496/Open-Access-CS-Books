@@ -583,6 +583,62 @@ in Statistical Information Theory Based on Entropy and Divergence Measures</a></
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(10).pdf" style="text-decoration:none;">Stochastic
 Processes: Theory and Applications</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(11).pdf" style="text-decoration:none;">Stochastic Dynamic Programming</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(12).pdf" style="text-decoration:none;">Measure Theory in Non-Smooth Spaces</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(13).pdf" style="text-decoration:none;">Finite Difference
+Computing with Exponential Decay Models</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(14).pdf" style="text-decoration:none;">Teaching and Learning
+of Calculus</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(15).pdf" style="text-decoration:none;">Spectral and High Order
+Methods for Partial Differential Equations ICOSAHOM 2018: Selected Papers from the ICOSAHOM Conference, London, UK, July 9–13, 2018</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(16).pdf" style="text-decoration:none;">Elements of Causal Inference:
+Foundations and Learning Algorithms</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(17).pdf" style="text-decoration:none;">Advanced Problems in Mathematics:
+Preparing for University</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(18).pdf" style="text-decoration:none;">Tensor Network Contractions:
+Methods and Applications to Quantum Many-Body Systems</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(19).pdf" style="text-decoration:none;">Advanced
+Mathematical Methods: Theory and Applications</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(20).pdf" style="text-decoration:none;">Discrete
+Mathematics and Symmetry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(21).pdf" style="text-decoration:none;">Fractional
+Calculus: Theory and Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(22).pdf" style="text-decoration:none;">Fractional
+Differential Equations: Theory, Methods and Applications</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(23).pdf" style="text-decoration:none;">Integral Transforms
+and Operational Calculus</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(24).pdf" style="text-decoration:none;">Mathematical
+Analysis and Applications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(25).pdf" style="text-decoration:none;">Numerical Analysis
+or Numerical Method in Symmetry</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(26).pdf" style="text-decoration:none;">Operators of
+Fractional Calculus and Their Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(27).pdf" style="text-decoration:none;">Advanced Problems in
+Mathematics: Preparing for University</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(28).pdf" style="text-decoration:none;">Special Functions:
+Fractional Calculus and the Pathway for Entropy</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(29).pdf" style="text-decoration:none;">The Craft of
+Fractional Modelling in Science and Engineering </a></li>                              
+
+
+
+
+
 </ul>
 
 
