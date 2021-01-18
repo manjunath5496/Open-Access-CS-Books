@@ -264,3 +264,43 @@ Techniques Applied to Geoscience Information System and Remote Sensing</a></li>
 
 
 </ul>
+</br>
+
+<h2>Math Books </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(1).pdf" style="text-decoration:none;">Linear Algebra: A
+Course for Physicists and Engineers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(2).pdf" style="text-decoration:none;">Probability and
+Statistics: A Course for Physicists and Engineers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(3).pdf" style="text-decoration:none;">Statistical Modelling:
+Proceedings of the 19th International Workshop on Statistical Modelling Florence (Italy) 4-8 July, 2004</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(4).pdf" style="text-decoration:none;">Advances in Proof-Theoretic
+Semantics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(5).pdf" style="text-decoration:none;">Bayesian
+Methods in the Search for MH370</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(6).pdf" style="text-decoration:none;">Empirical Research
+in Statistics Education</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(7).pdf" style="text-decoration:none;">Quantization on Nilpotent
+Lie Groups</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(8).pdf" style="text-decoration:none;"> Statistics and Data Science:
+new challenges, new generations </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(9).pdf" style="text-decoration:none;">New Developments
+in Statistical Information Theory Based on Entropy and Divergence Measures</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(10).pdf" style="text-decoration:none;">Stochastic
+Processes: Theory and Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(11).pdf" style="text-decoration:none;">Stochastic Dynamic Programming</a></li>
+</ul>
+
+
+
