@@ -408,7 +408,91 @@ from Space </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(153).pdf" style="text-decoration:none;">Google Earth
 Engine Applications</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(154).pdf" style="text-decoration:none;">Elements of
+Robotics</a></li> 
+ 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(155).pdf" style="text-decoration:none;">Realtime Analysis of Large-Scale Data</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(156).pdf" style="text-decoration:none;">Symmetry with
+Operator Theory and Equations</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(157).pdf" style="text-decoration:none;">Fuzzy
+Mathematics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(158).pdf" style="text-decoration:none;">Efficient Learning Machines:
+Theories, Concepts, and Applications for Engineers and System Designers</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(159).pdf" style="text-decoration:none;">Non-Knowledge and Digital Cultures</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(160).pdf" style="text-decoration:none;">Robust and Regularized
+Algorithms for Vehicle Tractive Force Prediction and Mass Estimation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(161).pdf" style="text-decoration:none;">Efficient Algorithms for
+Large-Scale Image Analysis</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(162).pdf" style="text-decoration:none;">Finite Difference
+Computing with PDEs: A Modern Software Approach</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(163).pdf" style="text-decoration:none;">Portraits of Automated Facial Recognition</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(164).pdf" style="text-decoration:none;">Ontology Alignment using Biologically-inspired Optimisation Algorithms</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(165).pdf" style="text-decoration:none;">Efficient Reinforcement Learning Using Gaussian Processes</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(166).pdf" style="text-decoration:none;">Deterministic Sampling
+for Nonlinear Dynamic State Estimation</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(167).pdf" style="text-decoration:none;">Nonlinear Gaussian Filtering:
+Theory, Algorithms, and Applications</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(168).pdf" style="text-decoration:none;">Solving PDEs in
+Python: The FEniCS Tutorial I</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(169).pdf" style="text-decoration:none;">Programming for
+Computations – MATLAB/Octave</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(170).pdf" style="text-decoration:none;">Bitcoin and Beyond:
+Cryptocurrencies, Blockchains, and Global Governance</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(171).pdf" style="text-decoration:none;">Computer Algebra in
+Scientific Computing</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(172).pdf" style="text-decoration:none;">Algorithms
+for Scheduling Problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(173).pdf" style="text-decoration:none;">Information-theoretic
+causal inference of lexical flow</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(174).pdf" style="text-decoration:none;">Variational Integrators and Generating Functions for Stochastic Hamiltonian Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(175).pdf" style="text-decoration:none;">Finite Difference
+Computing with Exponential Decay Models</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(176).pdf" style="text-decoration:none;">The Everyday Life of an
+Algorithm</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(177).pdf" style="text-decoration:none;">Exact and
+Heuristic Scheduling Algorithms</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(178).pdf" style="text-decoration:none;">Open Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(179).pdf" style="text-decoration:none;">Addressing Load balancing Issues Related to Elastic Cloud Using Biomimetic Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(180).pdf" style="text-decoration:none;">A Contribution to Resource-Aware
+Architectures for Humanoid Robots</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(181).pdf" style="text-decoration:none;">Error-Correction
+Coding and Decoding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(182).pdf" style="text-decoration:none;">Software for Exascale
+Computing - SPPEXA 2016-2019 </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(183).pdf" style="text-decoration:none;">Repetitive Structures In
+Biological Sequences: Algorithms And Applications</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(184).pdf" style="text-decoration:none;">Software Architectures for Humanoid Robotics</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(185).pdf" style="text-decoration:none;">Computational
+Intelligence in Photovoltaic Systems</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(186).pdf" style="text-decoration:none;">Deliberation
+Representation Equity</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(187).pdf" style="text-decoration:none;">Evolutionary
+Computation</a></li>
+                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(188).pdf" style="text-decoration:none;">Quantum
+Information and Foundations</a></li>
+ 
 
 </ul>
 </br>
