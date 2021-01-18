@@ -493,6 +493,22 @@ Computation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(188).pdf" style="text-decoration:none;">Quantum
 Information and Foundations</a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(189).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 26th International Conference, TACAS 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020 Dublin, Ireland, April 25–30, 2020 Proceedings, Part I</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(190).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 24th International Conference, TACAS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings, Part I</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(191).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 24th International Conference, TACAS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings, Part II  </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(192).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25th International Conference, TACAS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part I</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(193).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25th International Conference, TACAS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part II</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(194).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25 Years of TACAS: TOOLympics Held as Part of ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part III</a></li>                              
 
 </ul>
 </br>
