@@ -105,103 +105,149 @@ from Service Science for the progression of Society</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(42).pdf" style="text-decoration:none;">Moral Reasoning at Work: 
 Rethinking Ethics in Organizations</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(43).pdf" style="text-decoration:none;">Impossible Worlds</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(44).pdf" style="text-decoration:none;">Environments of Intelligence</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(45).pdf" style="text-decoration:none;">Decomposability
+of Tensors</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(46).pdf" style="text-decoration:none;">Monitoring Online Perception of
+Environmental Issues On Coasts of Sicily</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(47).pdf" style="text-decoration:none;">Artificial Intelligence
+And The Internet Of Things</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(48).pdf" style="text-decoration:none;">Linked Open Data –
+Creating Knowledge Out of Interlinked Data: Results of the LOD2 Project</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(49).pdf" style="text-decoration:none;">Physiology, Psychoacoustics
+and Cognition in Normal and Impaired Hearing</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(50).pdf" style="text-decoration:none;">Intelligent
+Human Computer Interaction: 9th International Conference, IHCI 2017 Evry, France, December 11–13, 2017 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(51).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 27th European Symposium on Programming, ESOP 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018
+Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(52).pdf" style="text-decoration:none;">Supercomputing Frontiers: 
+4th Asian Conference, SCFA 2018 Singapore, March 26–29, 2018 Proceedings</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(53).pdf" style="text-decoration:none;">Computer Aided
+Verification: 32nd International Conference, CAV 2020 Los Angeles, CA, USA, July 21–24, 2020 Proceedings, Part II</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(54).pdf" style="text-decoration:none;">New Metropolitan
+Perspectives: Knowledge Dynamics, Innovation-driven Policies Towards the Territories' Attractiveness Volume 1 </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(55).pdf" style="text-decoration:none;">The Impact of Digital
+Technologies on Public Health in Developed and Developing Countries: 18th International Conference, ICOST 2020 Hammamet, Tunisia, June 24–26, 2020 Proceedings</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(56).pdf" style="text-decoration:none;">Diversity And Universality
+In Causal Cognition </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(57).pdf" style="text-decoration:none;">Machine Learning With
+Radiation Oncology Big Data</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(58).pdf" style="text-decoration:none;">Art Markets and
+Digital Histories</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(59).pdf" style="text-decoration:none;">Artificial Intelligence
+for Smart and Sustainable Energy Systems and Applications</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(60).pdf" style="text-decoration:none;">Intelligent
+Optimization Modelling in Energy Forecasting</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(61).pdf" style="text-decoration:none;"> Intrinsic Motivations And
+Open-ended Development In Animals, Humans, And Robots</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(62).pdf" style="text-decoration:none;">Machine Learning,
+Low-Rank Approximations and Reduced Order Modeling in Computational Mechanics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(63).pdf" style="text-decoration:none;">Memristors for
+Neuromorphic Circuits and Artificial Intelligence Applications</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(64).pdf" style="text-decoration:none;">Modelling and
+Management of Irrigation System</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(65).pdf" style="text-decoration:none;">Technological Eco-
+Innovations for the Quality Control and the Decontamination of Polluted Waters and Soils </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(66).pdf" style="text-decoration:none;">Towards New Promising Discoveries
+for Lung Cancer Patients: A Selection of Papers from the First Joint Meeting on Lung Cancer of the FHU OncoAge (Nice, France) and the MD Anderson Cancer Center (Houston, TX, USA)</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(67).pdf" style="text-decoration:none;">UAV or Drones for Remote
+Sensing Applications: Volume 1</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(68).pdf" style="text-decoration:none;">Language in Disruptive Technology</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(69).pdf" style="text-decoration:none;">Learning and Execution of Object Manipulation Tasks on Humanoid Robots</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(70).pdf" style="text-decoration:none;">Collaborative Technologies and Data
+Science in Artificial Intelligence Applications</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(71).pdf" style="text-decoration:none;">Alleys of Your Mind:
+Augmented Intelligence and Its Traumas</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(72).pdf" style="text-decoration:none;">Bisociative
+Knowledge Discovery: An Introduction to Concept, Algorithms, Tools, and Applications</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(73).pdf" style="text-decoration:none;">Natural Computing
+and Beyond</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(74).pdf" style="text-decoration:none;">Computer and
+Information Sciences: 31st International Symposium, ISCIS 2016 Kraków, Poland, October 27–28, 2016 Proceedings</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(75).pdf" style="text-decoration:none;">Security of Networks
+and Services in an All-Connected World: 11th IFIP WG 6.6 International Conference on Autonomous Infrastructure, Management, and Security, AIMS 2017 Zurich, Switzerland, July 10–13, 2017 Proceedings</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(76).pdf" style="text-decoration:none;">Earth Observation
+Open Science and Innovation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(77).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures: 21st International Conference, FOSSACS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(78).pdf" style="text-decoration:none;">Foundations of Trusted
+Autonomy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(79).pdf" style="text-decoration:none;">Language Technologies
+for the Challenges of the Digital Age: 27th International Conference, GSCL 2017 Berlin, Germany, September 13–14, 2017 Proceedings</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(80).pdf" style="text-decoration:none;">Knowledge Graphs and
+Big Data Processing</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(81).pdf" style="text-decoration:none;">Leveraging Data Science for Global Health</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(82).pdf" style="text-decoration:none;">Representation
+Learning for Natural Language Processing</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(83).pdf" style="text-decoration:none;">Language Development In
+The Digital Age</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(84).pdf" style="text-decoration:none;">Modelling and
+Analysis of Sustainability Related Issues in New Era</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(85).pdf" style="text-decoration:none;">Neutrosophic
+Multi-Criteria Decision Making</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(86).pdf" style="text-decoration:none;">Quantum Structures In Cognitive
+And Social Science</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(87).pdf" style="text-decoration:none;">Religion and the
+New Technologies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(88).pdf" style="text-decoration:none;">Haptics: Science,
+Technology, Applications: 12th International Conference, EuroHaptics 2020 Leiden, The Netherlands, September 6–9, 2020 Proceedings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(89).pdf" style="text-decoration:none;">Re-enacting Sensorimotor
+Experience For Cognition</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(90).pdf" style="text-decoration:none;"> Neural Computation In Embodied
+Closed-loop Systems For The Generation Of Complex Behavior: From Biology To Technology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(91).pdf" style="text-decoration:none;">Application of
+Bioinformatics in Cancers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(92).pdf" style="text-decoration:none;">Artificial
+Superintelligence: Coordination and Strategy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(93).pdf" style="text-decoration:none;">Flood Forecasting
+Using Machine Learning Methods</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(94).pdf" style="text-decoration:none;">Intelligent Control
+in Energy Systems</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(95).pdf" style="text-decoration:none;">Augmentation Of Brain Function:
+Facts, Fiction And Controversy, Volume I: Brain-machine Interfaces</a></li>  
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
   
