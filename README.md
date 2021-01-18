@@ -546,6 +546,16 @@ and Hybrid Evolutionary Algorithms in Energy Forecasting</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(209).pdf" style="text-decoration:none;">Short-Term Load
 Forecasting by Artificial Intelligent Technologies</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(32).pdf" style="text-decoration:none;">Introduction
+to Scientific Programming with Python</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(33).pdf" style="text-decoration:none;">Software for Exascale
+Computing - SPPEXA 2016-2019</a></li>   
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(34).pdf" style="text-decoration:none;">Data Privacy and Trust
+in Cloud Computing: Building trust in the cloud through assurance and accountability</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(36).pdf" style="text-decoration:none;">Programming for
+Computations - Python</a></li> 
   </ul>
 </br>
 
@@ -597,8 +607,7 @@ Methods for Partial Differential Equations ICOSAHOM 2018: Selected Papers from t
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(16).pdf" style="text-decoration:none;">Elements of Causal Inference:
 Foundations and Learning Algorithms</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(17).pdf" style="text-decoration:none;">Advanced Problems in Mathematics:
-Preparing for University</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(17).pdf" style="text-decoration:none;">Progress in Commutative Algebra 2</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(18).pdf" style="text-decoration:none;">Tensor Network Contractions:
 Methods and Applications to Quantum Many-Body Systems</a></li> 
@@ -636,7 +645,38 @@ Fractional Calculus and the Pathway for Entropy</a></li>
 Fractional Modelling in Science and Engineering </a></li>                              
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(30).pdf" style="text-decoration:none;">Advances in
+Discrete Differential Geometry</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(31).pdf" style="text-decoration:none;">Early Algebra: Research into its Nature, its Learning, its Teaching</a></li> 
+   
 
+                            
+
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(35).pdf" style="text-decoration:none;">Functional Differential Geometry</a></li> 
+
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(37).pdf" style="text-decoration:none;">Differential
+Geometry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(38).pdf" style="text-decoration:none;">Fuzzy Sets, Fuzzy
+Logic and Their Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(39).pdf" style="text-decoration:none;">Graph-Theoretic
+Problems and Their New Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(40).pdf" style="text-decoration:none;">Interactions
+between Group Theory, Symmetry and Cryptology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(41).pdf" style="text-decoration:none;">Measure,
+Integration and Real Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(42).pdf" style="text-decoration:none;">Teaching Mathematics At
+Secondary Level</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(43).pdf" style="text-decoration:none;">New Trends
+in Fuzzy Set Theory and Related Items</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(44).pdf" style="text-decoration:none;">Algebra in Cuneiform: Introduction to an Old Babylonian Geometrical Technique</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(45).pdf" style="text-decoration:none;">Uncertainty
+Quantification Techniques in Statistics</a></li>  
+   
 
 
 </ul>
