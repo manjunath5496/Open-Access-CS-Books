@@ -261,7 +261,35 @@ and Embedded Computing in Advanced Driver Assistance Systems (ADAS)</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(97).pdf" style="text-decoration:none;">Machine Learning
 Techniques Applied to Geoscience Information System and Remote Sensing</a></li>
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(98).pdf" style="text-decoration:none;">Human Pose Estimation
+with Implicit Shape Models</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(99).pdf" style="text-decoration:none;">Tracking Extended Objects
+with Active Models and Negative Measurements</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(100).pdf" style="text-decoration:none;">Computer Vision Metrics: Survey, Taxonomy, and Analysis</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(101).pdf" style="text-decoration:none;">Seeing the Past
+with Computers: Experiments with Augmented Reality and Computer Vision for History</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(102).pdf" style="text-decoration:none;">Modeling Of Visual
+Cognition, Body Sense, Motor Control And Their Integrations</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(103).pdf" style="text-decoration:none;">Applied Artificial
+Neural Networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(104).pdf" style="text-decoration:none;">Imaging: Sensors
+and Technologies</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(105).pdf" style="text-decoration:none;">Intelligent Imaging
+and Analysis</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(106).pdf" style="text-decoration:none;">Integrating Computational
+And Neural Findings In Visual Object Perception</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(107).pdf" style="text-decoration:none;">New Industry 4.0 Advances in Industrial IoT and Visual Computing for Manufacturing Processes</a></li> 
+  
 
 </ul>
 </br>
