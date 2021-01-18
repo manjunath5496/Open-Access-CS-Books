@@ -510,7 +510,43 @@ for the Construction and Analysis of Systems: 25th International Conference, TAC
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(194).pdf" style="text-decoration:none;">Tools and Algorithms
 for the Construction and Analysis of Systems: 25 Years of TACAS: TOOLympics Held as Part of ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part III</a></li>                              
 
-</ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(195).pdf" style="text-decoration:none;">50 Years After The Perceptron,
+25 Years After PDP: Neural Computation In Language Sciences</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(196).pdf" style="text-decoration:none;">Script E ects as the
+Hidden Drive of the Mind, Cognition, and Culture</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(197).pdf" style="text-decoration:none;">Connectionist Representations of Tonal Music: Discovering Musical Patterns by Interpreting Artificial Neural Networks</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(198).pdf" style="text-decoration:none;">Mathematical
+Aspects Of Logic Programming Semantics</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(199).pdf" style="text-decoration:none;">Traumatic Brain Injury As a Systems Neuroscience Problem</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(200).pdf" style="text-decoration:none;">Neural and Computational Modeling of Movement Control</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(201).pdf" style="text-decoration:none;">Artificial Neural Networks as Models of Neural Information Processing</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(202).pdf" style="text-decoration:none;">Brain Oscillations in Human Communication</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(203).pdf" style="text-decoration:none;">From Ecology to Brain Development: Bridging Separate Evolutionary Paradigms</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(204).pdf" style="text-decoration:none;">Mood and Cognition in Old Age</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(205).pdf" style="text-decoration:none;">Claim Models: Granular Forms and Machine Learning Forms</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(206).pdf" style="text-decoration:none;">
+Information Theory in Neuroscience</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(207).pdf" style="text-decoration:none;">Kernel Methods
+and Hybrid Evolutionary Algorithms in Energy Forecasting</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(208).pdf" style="text-decoration:none;">Neural Masses and Fields: Modelling the Dynamics of Brain Activity</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ar(209).pdf" style="text-decoration:none;">Short-Term Load
+Forecasting by Artificial Intelligent Technologies</a></li>
+  </ul>
 </br>
 
 <h2>Math Books </h2>
