@@ -677,7 +677,19 @@ in Fuzzy Set Theory and Related Items</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(45).pdf" style="text-decoration:none;">Uncertainty
 Quantification Techniques in Statistics</a></li>  
    
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(46).pdf" style="text-decoration:none;">Fading Foundations: Probability and the Regress Problem</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(47).pdf" style="text-decoration:none;">Bayesian Methods for Statistical Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(48).pdf" style="text-decoration:none;">Applied and
+Computational Statistics</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(49).pdf" style="text-decoration:none;">Improving Bayesian Reasoning:
+What Works And Why?</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(50).pdf" style="text-decoration:none;">Information
+Geometry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(51).pdf" style="text-decoration:none;">Research on
+Teaching and Learning Probability</a></li>
 
 </ul>
 
