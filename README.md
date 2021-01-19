@@ -632,6 +632,14 @@ Neural Networks</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(7).pdf" style="text-decoration:none;">The Nature of Code</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(8).pdf" style="text-decoration:none;"> Introduction to Statistical Thought</a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(9).pdf" style="text-decoration:none;">Introduction to Bayesian Statistics</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(10).pdf" style="text-decoration:none;">Mathematics for Computer Science</a></li>                              
 
 
 
