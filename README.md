@@ -641,7 +641,7 @@ Neural Networks</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(10).pdf" style="text-decoration:none;">Mathematics for Computer Science</a></li>                              
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(19).pdf" style="text-decoration:none;">Scientific Computing</a></li> 
 
 
 
@@ -791,6 +791,49 @@ Teaching and Learning Probability</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(6).pdf" style="text-decoration:none;">Probability and Statistics Cookbook</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(7).PDF" style="text-decoration:none;">Elementary Differential Equations</a></li>
 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(1).pdf" style="text-decoration:none;">Active Calculus - Multivariable</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(2).pdf" style="text-decoration:none;">An Introduction to Matlab and Mathcad</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(3).pdf" style="text-decoration:none;">Abstract Algebra:
+Theory and Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(4).pdf" style="text-decoration:none;">Active Prelude to Calculus</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(5).pdf" style="text-decoration:none;">Applied Combinatorics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(6).pdf" style="text-decoration:none;">Probability on Trees
+and Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(7).pdf" style="text-decoration:none;">Exercises and Problems in Calculus</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(8).pdf" style="text-decoration:none;"> Calculus I  </a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(9).pdf" style="text-decoration:none;">Calculus II</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(10).pdf" style="text-decoration:none;">Calculus III</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(11).pdf" style="text-decoration:none;">Fundamentals of Matrix Algebra</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(12).pdf" style="text-decoration:none;">Book of Proof</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(13).pdf" style="text-decoration:none;">An Introduction to the Theory of Numbers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(14).pdf" style="text-decoration:none;">
+Elements of Linear and Multilinear Algebra</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(15).pdf" style="text-decoration:none;">Notes on Discrete Mathematics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(16).pdf" style="text-decoration:none;">Numerical Algorithms</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(17).pdf" style="text-decoration:none;">A Problem Course
+in Mathematical Logic</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(18).pdf" style="text-decoration:none;">Introduction to Modern Set Theory</a></li> 
+
+  
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(20).pdf" style="text-decoration:none;">Yet Another Calculus Text: A Short Introduction with Infinitesimals</a></li>
 
 
 
