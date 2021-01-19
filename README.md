@@ -612,7 +612,8 @@ Applications and Vignettes in R</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(27).pdf" style="text-decoration:none;">Think Python:
 How to Think Like a Computer Scientist</a></li>
    
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(8).pdf" style="text-decoration:none;"> SQL for Web Nerds </a></li>
+ 
 
 
 
@@ -755,6 +756,19 @@ What Works And Why?</a></li>
 Geometry</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(51).pdf" style="text-decoration:none;">Research on
 Teaching and Learning Probability</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(1).pdf" style="text-decoration:none;">Introduction to Probability</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(2).pdf" style="text-decoration:none;">Probabilistic Models in the Study of Language</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(3).pdf" style="text-decoration:none;">A First Course in Linear Algebra</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(4).pdf" style="text-decoration:none;">Linear Algebra, Theory And Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(5).pdf" style="text-decoration:none;">Linear Algebra</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(6).pdf" style="text-decoration:none;">Probability and Statistics Cookbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(7).PDF" style="text-decoration:none;">Elementary Differential Equations</a></li>
+
+
+
 
 </ul>
 
