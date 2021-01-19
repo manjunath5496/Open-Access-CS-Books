@@ -771,6 +771,7 @@ Teaching and Learning Probability</a></li>
 
 
 </ul>
-
+</br>
+<h2> Lecture Slides from David Poole and Alan Mackworth  </h2>
 
 
