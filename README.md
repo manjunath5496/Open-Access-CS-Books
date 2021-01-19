@@ -772,7 +772,7 @@ Teaching and Learning Probability</a></li>
 
 </ul>
 </br>
-<h2> Lecture Slides from David Poole and Alan Mackworth  </h2>
+<h2> Lecture Slides (David Poole and Alan Mackworth)  </h2>
 
 <h2>Chapter 1: Artificial Intelligence and Agents</h2>
 <ul>
