@@ -643,7 +643,52 @@ Neural Networks</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/nk(19).pdf" style="text-decoration:none;">Scientific Computing</a></li> 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(1).pdf" style="text-decoration:none;">500 Lines or Less: Experienced Programmers Solve Interesting Problems</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(2).pdf" style="text-decoration:none;">Brief Introduction to Educational Implications of Artificial Intelligence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(3).pdf" style="text-decoration:none;">Algorithms and Data Structures: With Applications to Graphics and Geometry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(4).pdf" style="text-decoration:none;">Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(5).pdf" style="text-decoration:none;">Applied Data Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(6).pdf" style="text-decoration:none;">Artificial Intelligence through Prolog</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(7).pdf" style="text-decoration:none;">Basics of Modelling and Visualization</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(8).pdf" style="text-decoration:none;"> Fundamentals of Computer Vision </a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(9).pdf" style="text-decoration:none;">CS 473: Algorithms</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(10).pdf" style="text-decoration:none;">Foundations of Data Science</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(11).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(12).pdf" style="text-decoration:none;">Global Optimization Algorithms – Theory and Application</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(13).pdf" style="text-decoration:none;">Clever Algorithms: Nature-Inspired Programming Recipes</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(14).pdf" style="text-decoration:none;">Combinatorial Optimization: Exact and Approximate Algorithms</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(15).pdf" style="text-decoration:none;">Elementary Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(16).pdf" style="text-decoration:none;">Introduction to Computing: Explorations in Language, Logic, and Machines</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(17).pdf" style="text-decoration:none;">A First Encounter with Machine Learning</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(18).pdf" style="text-decoration:none;">Statistical inference for data science: A companion to the Coursera Statistical Inference Course</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(19).pdf" style="text-decoration:none;">Python Machine Learning Projects</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(20).pdf" style="text-decoration:none;">A Field Guide to Genetic Programming</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(21).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(22).pdf" style="text-decoration:none;">Python for Everybody: Exploring Data Using Python 3</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(23).pdf" style="text-decoration:none;">Think Complexity</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(24).pdf" style="text-decoration:none;">A Genetic Algorithm Tutorial</a></li>
+ 
 
 
   </ul>
