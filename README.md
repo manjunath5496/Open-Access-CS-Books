@@ -782,3 +782,8 @@ Teaching and Learning Probability</a></li>
 <li><a href="ch01/lect4.pdf" data-smd-id="s23">Lecture 4</a>: introduction to knowledge representation.</li>
 </ul>
 
+<h2>Chapter 2: Agent Architectures and Hierarchical Control</h2>
+<ul>
+<li><a href="ch02/lect1.pdf" data-smd-id="s24">Lecture 1</a>: agent architecture and control</li>
+<li><a href="ch02/lect2.pdf" data-smd-id="s25">Lecture 2</a>: hierarchical control.</li>
+</ul>
