@@ -556,6 +556,64 @@ Computing - SPPEXA 2016-2019</a></li>
 in Cloud Computing: Building trust in the cloud through assurance and accountability</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/math(36).pdf" style="text-decoration:none;">Programming for
 Computations - Python</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(1).pdf" style="text-decoration:none;">Introduction to Machine Learning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(2).pdf" style="text-decoration:none;">Automate the Boring Stuff with Python: Practical Programming for Total Beginners</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(3).pdf" style="text-decoration:none;">Cracking Codes with Python: An Introduction to Building and Breaking Ciphers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(4).pdf" style="text-decoration:none;">A Programmer's Guide to
+Data Mining</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(5).pdf" style="text-decoration:none;">An Introduction to Data Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(6).pdf" style="text-decoration:none;">Practical Regression and Anova using R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(7).pdf" style="text-decoration:none;">A First Course in
+Design and Analysis of Experiments</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(8).pdf" style="text-decoration:none;"> Hadoop Illuminated </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(9).pdf" style="text-decoration:none;">Invent Your Own
+Computer Games with Python</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(10).pdf" style="text-decoration:none;">Neural Data Mining with Python sources</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(11).pdf" style="text-decoration:none;">Learning statistics with R:
+A tutorial for psychology students and other beginners</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(12).pdf" style="text-decoration:none;">Data-Intensive Text Processing
+with MapReduce</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(13).pdf" style="text-decoration:none;">The Little MongoDB Book</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(14).pdf" style="text-decoration:none;">Neural Networks and Deep Learning</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(15).pdf" style="text-decoration:none;">NoSQL Databases</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(16).pdf" style="text-decoration:none;">Programming Computer Vision
+with Python</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(17).pdf" style="text-decoration:none;">Python for you and me</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(18).pdf" style="text-decoration:none;">Python for Everybody: Exploring Data Using Python 3</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(19).pdf" style="text-decoration:none;">Python Practice Book</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(20).pdf" style="text-decoration:none;">Think Bayes:
+Bayesian Statistics Made Simple</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(21).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: 
+Learning with Python</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(22).pdf" style="text-decoration:none;">Think Stats:
+Exploratory Data Analysis in Python</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(23).pdf" style="text-decoration:none;">Machine Learning, Neural and Statistical Classification</a></li> 
+ 
+
+
+
+
+
+
+
+
+
+
   </ul>
 </br>
 
