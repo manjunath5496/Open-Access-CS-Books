@@ -787,3 +787,11 @@ Teaching and Learning Probability</a></li>
 <li><a href="ch02/lect1.pdf" data-smd-id="s24">Lecture 1</a>: agent architecture and control</li>
 <li><a href="ch02/lect2.pdf" data-smd-id="s25">Lecture 2</a>: hierarchical control.</li>
 </ul>
+<h2>Chapter 3: Searching for Solutions</h2>
+<ul>
+<li><a href="ch03/lect1.pdf" data-smd-id="s26">Lecture 1</a>: searching and graphs.</li>
+<li><a href="ch03/lect2.pdf" data-smd-id="s27">Lecture 2</a>&nbsp;uninformed search strategies.</li>
+<li><a href="ch03/lect3.pdf" data-smd-id="s28">Lecture 3</a>&nbsp;heuristic search, including best-first search and A* search.</li>
+<li><a href="ch03/lect4.pdf" data-smd-id="s29">Lecture 4</a>&nbsp;refinements to search strategies, including loop checking, multiple-path pruning, bidirectional search, and dynamic programming.</li>
+<li><a href="ch03/lect5.pdf" data-smd-id="s30">Lecture 5</a>&nbsp;bounded search, iterative deepening, branch and bound.</li>
+</ul>
