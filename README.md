@@ -604,7 +604,14 @@ Learning with Python</a></li>
 Exploratory Data Analysis in Python</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(23).pdf" style="text-decoration:none;">Machine Learning, Neural and Statistical Classification</a></li> 
  
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(24).pdf" style="text-decoration:none;">The R Inferno</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(25).pdf" style="text-decoration:none;">An Introduction to R</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(26).pdf" style="text-decoration:none;">Spatial Epidemiology Notes:
+Applications and Vignettes in R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/ak(27).pdf" style="text-decoration:none;">Think Python:
+How to Think Like a Computer Scientist</a></li>
+   
 
 
 
