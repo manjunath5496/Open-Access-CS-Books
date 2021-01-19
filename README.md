@@ -617,6 +617,19 @@ How to Think Like a Computer Scientist</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/int(1).pdf" style="text-decoration:none;"> Interpretable Machine Learning: 
 A Guide for Making Black Box Models Explainable </a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(1).pdf" style="text-decoration:none;">Explainable Deep Learning:
+A Field Guide for the Uninitiated</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(2).pdf" style="text-decoration:none;">Types of Machine Learning Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(3).pdf" style="text-decoration:none;">Reinforcement
+Learning: An Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(4).pdf" style="text-decoration:none;">
+Machines That Learn in the Wild</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(5).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(6).pdf" style="text-decoration:none;">A Brief Introduction to
+Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/vk(7).pdf" style="text-decoration:none;">The Nature of Code</a></li>
 
 
 
