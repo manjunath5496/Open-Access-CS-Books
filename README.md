@@ -614,6 +614,9 @@ How to Think Like a Computer Scientist</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/av(8).pdf" style="text-decoration:none;"> SQL for Web Nerds </a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/int(1).pdf" style="text-decoration:none;"> Interpretable Machine Learning: 
+A Guide for Making Black Box Models Explainable </a></li>
+ 
 
 
 
