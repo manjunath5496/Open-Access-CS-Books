@@ -783,6 +783,25 @@ Lecture Notes</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(67).pdf" style="text-decoration:none;">Think DSP:
 Digital Signal Processing in Python</a></li>                              
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(68).pdf" style="text-decoration:none;">Programming in Standard ML</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(69).pdf" style="text-decoration:none;">Issues in
+Open Research Data</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(70).pdf" style="text-decoration:none;">Learn You a Haskell for Great Good!</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(71).pdf" style="text-decoration:none;">The Not So Short
+Introduction to LATEX 2e</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(72).pdf" style="text-decoration:none;">The Art of Insight
+in Science and Engineering</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(73).pdf" style="text-decoration:none;">Stuff Goes Bad: Erlang in Anger</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(74).pdf" style="text-decoration:none;">Performance and Evaluation
+of Lisp Systems </a></li>
   
   
   
