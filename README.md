@@ -689,7 +689,70 @@ Neural Networks</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(24).pdf" style="text-decoration:none;">A Genetic Algorithm Tutorial</a></li>
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(25).pdf" style="text-decoration:none;">S-BPMIllustrated</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(27).pdf" style="text-decoration:none;">Basic Internet Security</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(28).pdf" style="text-decoration:none;">Business Processes and
+Information Technology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(29).pdf" style="text-decoration:none;">CODING THEORY:
+a first course </a></li>                              
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(30).pdf" style="text-decoration:none;">Cognitive Patterns:
+Problem-Solving Frameworks for Object Technology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(31).pdf" style="text-decoration:none;">Database Design</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(32).pdf" style="text-decoration:none;">Don't Just Roll The Dice</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(33).pdf" style="text-decoration:none;">Introduction to
+Programming using Fortran 95/2003/2008</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(34).pdf" style="text-decoration:none;">Foundations of Programming:
+Building Better Software</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(35).pdf" style="text-decoration:none;">Hacking Secret
+Ciphers with Python</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(36).pdf" style="text-decoration:none;">Hacking the Xbox</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(37).pdf" style="text-decoration:none;">High Performance Computing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(38).pdf" style="text-decoration:none;">How To Be a Programmer: A Short,
+Comprehensive, and Personal Summary</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(39).pdf" style="text-decoration:none;">How To Code in Python 3</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(40).pdf" style="text-decoration:none;">Information Security for Journalists</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(41).pdf" style="text-decoration:none;">The Little Book of Semaphores</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(42).pdf" style="text-decoration:none;">Math in Society</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(43).pdf" style="text-decoration:none;">Subject-Oriented
+Business Process Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(44).pdf" style="text-decoration:none;">Non-Programmer's Tutorial for Python
+2.6</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(45).pdf" style="text-decoration:none;">Open Source
+Development with CVS</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(46).pdf" style="text-decoration:none;">Programming on Parallel Machines</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(47).pdf" style="text-decoration:none;">Producing Open Source Software:
+How to Run a Successful Free Software Project</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(48).pdf" style="text-decoration:none;">ProGit</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(49).pdf" style="text-decoration:none;">Programming Fundamentals - A Modular
+Structured Approach using C++</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(51).pdf" style="text-decoration:none;">Readings in Database Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(52).pdf" style="text-decoration:none;">Software Innovation:
+Eight work-style heuristics for creative system developers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(53).pdf" style="text-decoration:none;">Version Control with Subversion</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(54).pdf" style="text-decoration:none;">The Promise and Peril
+of Big Data </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(55).pdf" style="text-decoration:none;">Complexity Issues in Coding Theory</a></li>
+ 
 
   </ul>
 </br>
