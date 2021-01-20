@@ -758,6 +758,34 @@ of Big Data </a></li>
 The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(57).pdf" style="text-decoration:none;">Programming Ruby</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(58).pdf" style="text-decoration:none;">From Algorithms to Z-Scores:
+Probabilistic and Statistical Modeling in Computer Science</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(59).pdf" style="text-decoration:none;">Bayesian Reasoning and Machine Learning</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(60).pdf" style="text-decoration:none;">Fast Lane to Python: A quick, sensible route to the joys of Python coding </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(61).pdf" style="text-decoration:none;"> Making Games with
+Python and Pygame</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(62).pdf" style="text-decoration:none;">P9489 Practicals and Exercises</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(63).pdf" style="text-decoration:none;">Programming Computer Vision
+with Python</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(64).pdf" style="text-decoration:none;">Python Guide Documentation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(65).pdf" style="text-decoration:none;">Introduction to Scientific Computing in Python</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(66).pdf" style="text-decoration:none;">Scipy
+Lecture Notes</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(67).pdf" style="text-decoration:none;">Think DSP:
+Digital Signal Processing in Python</a></li>                              
+
+  
+  
+  
   </ul>
 </br>
 
