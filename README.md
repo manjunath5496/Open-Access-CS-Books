@@ -690,7 +690,7 @@ Neural Networks</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(24).pdf" style="text-decoration:none;">A Genetic Algorithm Tutorial</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(25).pdf" style="text-decoration:none;">S-BPMIllustrated</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(26).pdf" style="text-decoration:none;">Building Skills in Object-Oriented Design</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(27).pdf" style="text-decoration:none;">Basic Internet Security</a></li>
    
  
@@ -741,7 +741,8 @@ How to Run a Successful Free Software Project</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(49).pdf" style="text-decoration:none;">Programming Fundamentals - A Modular
 Structured Approach using C++</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(50).pdf" style="text-decoration:none;">Java, Java, Java
+Object-Oriented Problem Solving</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(51).pdf" style="text-decoration:none;">Readings in Database Systems</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(52).pdf" style="text-decoration:none;">Software Innovation:
 Eight work-style heuristics for creative system developers</a></li>
@@ -753,7 +754,10 @@ of Big Data </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(55).pdf" style="text-decoration:none;">Complexity Issues in Coding Theory</a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(56).pdf" style="text-decoration:none;">Opening Science:
+The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-CS-Books/blob/master/dk(57).pdf" style="text-decoration:none;">Programming Ruby</a></li>
   </ul>
 </br>
 
